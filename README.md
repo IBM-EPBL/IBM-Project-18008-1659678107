@@ -7,5 +7,6 @@ handwritten digits from image in the format of .jpg or .png using convolutional 
 **TEAM ID : PNT2022TMID22047**
 
 TEAM LEAD: SAMUNDEESHWARY.R
+
 TEAM MEMBERS: YAMUNA.B | VINOTHINI.S | NANDHINI.S
 
